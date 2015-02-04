@@ -2,10 +2,10 @@
 
 one:
   name: MyString
-  type: 
+  category: MyString
   adopted: 2015-02-04
 
 two:
   name: MyString
-  type: 
+  category: MyString
   adopted: 2015-02-04
